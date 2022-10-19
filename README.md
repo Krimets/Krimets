@@ -1,17 +1,5 @@
 ### Hi there 👋
--->
-<--
-### I'm a Python Developer
 
-I like
-- :soccer: football
-- :car: driving
-- :headphones: music
-- :video_game: computer games
-
-and coding of course :computer:
-<--
--->
 - 🔭 I’m currently working on automation of data collection
 - 🌱 I’m currently learning django and flask frameworks
 
