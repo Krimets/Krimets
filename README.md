@@ -48,6 +48,5 @@
 [telegram]: https://t.me/Mastermind_K
 <br />
 
----
 
 :soccer: :car: :headphones: :video_game: :computer:
