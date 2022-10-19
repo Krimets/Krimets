@@ -10,10 +10,8 @@ I like
 
 and coding of course :computer:
 
-<!--
 - 🔭 I’m currently working on automation of data collection
 - 🌱 I’m currently learning django and flask frameworks
--->
 
 ---
 
