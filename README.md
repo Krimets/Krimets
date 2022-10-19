@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-:soccer: :car: :headphones: :video_game: :computer:
-
 - 🔭 I’m currently working on automation of data collection
 - 🌱 I’m currently learning django and flask frameworks
 
@@ -49,3 +47,6 @@
 
 [telegram]: https://t.me/Mastermind_K
 
+---
+
+:soccer: :car: :headphones: :video_game: :computer:
