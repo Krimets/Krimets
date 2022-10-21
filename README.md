@@ -13,6 +13,7 @@
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][telegram]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][telegram]
 [<img align="left" alt="XML" width="40px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][telegram]
+[<img align="left" alt="Heroku" width="40px" src="[https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png](https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg)" />]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][telegram]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />][telegram]
 
@@ -30,10 +31,10 @@
 
 #### OS
 
-[<img align="left" alt="MacOs" width="40px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
 [<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>][telegram]
 [<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />][telegram]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][telegram]
+[<img align="left" alt="MacOs" width="40px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][telegram]
 
 <br />
 <br />
