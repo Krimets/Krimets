@@ -24,20 +24,19 @@
 
 #### Database
 
-[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][telegram]
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][telegram]
-[<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][telegram]
-[<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />][telegram]
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][telegram]
+[<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][telegram]
+[<img align="left" alt="PostgreSQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][telegram]
 
 <br />
 <br />
 
 #### OS
 
-[<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>][telegram]
-[<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />][telegram]
-[<img align="left" alt="MacOs" width="40px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][telegram]
+[<img align="left" alt="Ubuntu" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>][telegram]
+[<img align="left" alt="Linux" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />][telegram]
+[<img align="left" alt="MacOs" width="32px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
+[<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][telegram]
 
 <br />
 <br />
