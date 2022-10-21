@@ -43,7 +43,7 @@
 
 #### English
 
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="32px" src="https://a.storyblok.com/f/79503/250x250/8402d11651/group-3.png"/>][English]
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="60px" src="https://a.storyblok.com/f/79503/250x250/8402d11651/group-3.png"/>][English]
 
 <br />
 <br />
