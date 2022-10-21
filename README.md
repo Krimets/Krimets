@@ -16,6 +16,8 @@
 [<img align="left" alt="Heroku" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />][telegram]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][telegram]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />][telegram]
+[<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />][telegram]
+[<img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][telegram]
 
 <br />
 <br />
@@ -25,6 +27,7 @@
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][telegram]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][telegram]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][telegram]
+[<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />][telegram]
 
 <br />
 <br />
