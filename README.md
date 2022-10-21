@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Skills and Tools
+### 🛠️ Skills and Tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][telegram]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][telegram]
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-### Database
+#### Database
 
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][telegram]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][telegram]
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-### OS
+#### OS
 
 [<img align="left" alt="MacOs" width="40px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
 [<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>][telegram]
