@@ -11,11 +11,13 @@
 <img align="left" alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Heroku" title="Heroku" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="40px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<br/>
 <img align="left" alt="Git" title="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
 <img align="left" alt="PyCharm" title="PyCharm" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="Heroku" title="Heroku" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />
 <img align="left" alt="AWS" title="Amazon AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
 <br/>
