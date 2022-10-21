@@ -32,9 +32,9 @@
 <br />
 
 <img align="left" alt="Ubuntu" title="Ubuntu" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-[<img align="left" alt="Linux" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />][telegram]
-[<img align="left" alt="MacOs" width="32px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png" />][telegram]
-[<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][telegram]
+<img align="left" alt="Linux" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"/>
+<img align="left" alt="MacOs" width="32px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"/>
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
 <br />
 <br />
