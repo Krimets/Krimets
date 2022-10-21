@@ -38,12 +38,8 @@
 <img align="left" alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
 <br />
-<br />
-<br />
 
-#### English
-
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfo9lU0tXucAXiyoGiHfO1W6khIhQPhFZq915ru6nS2dVGp04DkQWlpsRm7gH1OtPQNuc&usqp=CAU"/>][English]
 
 <br />
 <br />
