@@ -52,7 +52,5 @@
 [English]: https://www.efset.org/cert/oDAoqP
 
 <br />
-<br />
-<br />
 
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="150px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
+[<img align="right" alt="English" title="B2 Upper Intermediate" width="150px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
