@@ -43,7 +43,7 @@
 
 #### English
 
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://online-london.com/upload/iblock/f67/yn2t52zfp4onx7q2fcy2k28lay17qm33/%D0%91%D1%83%D0%B4%D0%B5%D0%BC%20%D0%BD%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20(13).jpg"/>][English]
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://cdn.efset.org/efset-widget/img/certificate_54.png"/>][English]
 
 <br />
 <br />
