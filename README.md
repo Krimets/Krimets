@@ -18,6 +18,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="PyCharm" title="PyCharm" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="Heroku" title="Heroku" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />
 <img align="left" alt="AWS" title="Amazon AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="Selenium WebDriver" title="Selenium WebDriver" width="40px" src="https://upload.wikimedia.org/wikipedia/uk/5/5c/Seleniumlogo.png" />
 
 <br/>
 <br/>
