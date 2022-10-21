@@ -43,14 +43,13 @@
 
 #### English
 
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://cdn.efset.org/efset-widget/img/certificate_54.png"/>][English]
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://prnt.sc/-nb15zbO6-mU"/>][English]
 
 <br />
 <br />
 <br />
 
 ---
-
 ### You can contact me:
 
 [<img align="left" alt="Telegram" title="Mastermind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
