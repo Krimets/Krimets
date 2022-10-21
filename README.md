@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on automation of data collection
-- 🌱 I’m currently learning <img alt="django" title="django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"/> and <img alt="Flask" title="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/> frameworks
+- 🌱 I’m currently learning django and flask frameworks
 - my hobby: :computer: :headphones: :video_game: :car: :soccer:
 
 ---
