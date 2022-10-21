@@ -46,7 +46,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Linux" title="Ubuntu" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"/>
 <img align="left" alt="MacOs" title="MacOs" width="32px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"/>
 <img align="left" alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
-[<img align="right" alt="English" title="B2 Upper Intermediate" width="150px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
 
 <br />
 <br />
@@ -57,6 +56,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [<img align="left" alt="Telegram" title="Mastermind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 [<img alt="CodeWars" title="Mastermind" src="https://www.codewars.com/users/Mastermind_K/badges/micro" />][CodeWars]
+[<img align="right" alt="English" title="B2 Upper Intermediate" width="150px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
 
 [telegram]: https://t.me/Mastermind_K
 [CodeWars]: https://www.codewars.com/users/Mastermind_K
