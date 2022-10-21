@@ -39,11 +39,6 @@
 
 <br />
 <br />
-
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
-
-<br />
-<br />
 <br />
 
 ---
@@ -55,3 +50,9 @@
 [telegram]: https://t.me/Mastermind_K
 [CodeWars]: https://www.codewars.com/users/Mastermind_K
 [English]: https://www.efset.org/cert/oDAoqP
+
+<br />
+<br />
+<br />
+
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="150px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
