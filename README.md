@@ -10,7 +10,6 @@
 
 <img align="left" alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Visual Basic for Applications" title="Visual Basic for Applications" width="40px" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" />
 <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" title="CSS3" width="40px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,6 +19,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Heroku" title="Heroku" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" />
 <img align="left" alt="AWS" title="Amazon AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Selenium WebDriver" title="Selenium WebDriver" width="40px" src="https://upload.wikimedia.org/wikipedia/uk/5/5c/Seleniumlogo.png" />
+<img align="left" alt="Visual Basic for Applications" title="Visual Basic for Applications" width="40px" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" />
+<img align="left" alt="Excell" title="Excell" width="40px" src="https://w7.pngwing.com/pngs/934/125/png-transparent-microsoft-excel-microsoft-office-2016-microsoft-office-365-microsoft-template-rectangle-logo.png" />
 
 <br/>
 <br/>
