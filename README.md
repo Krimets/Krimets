@@ -43,7 +43,7 @@
 
 #### English
 
-[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://prnt.sc/-nb15zbO6-mU"/>][English]
+[<img align="left" alt="English" title="B2 Upper Intermediate" width="100px" src="https://www.abaenglish.com/ru/wp-content/uploads/sites/11/2020/02/level-a-1-copy-3@2x.png"/>][English]
 
 <br />
 <br />
