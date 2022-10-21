@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="AWS" title="Amazon AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Selenium WebDriver" title="Selenium WebDriver" width="40px" src="https://upload.wikimedia.org/wikipedia/uk/5/5c/Seleniumlogo.png" />
 <img align="left" alt="Visual Basic for Applications" title="Visual Basic for Applications" width="40px" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png" />
-<img align="left" alt="Excell" title="Excell" width="40px" src="https://e1.pngegg.com/pngimages/380/822/png-clipart-clay-os-6-a-macos-icon-microsoft-excell-microsoft-excel-logo.png" />
+<img align="left" alt="Excell" title="Excell" width="40px" src="https://community.anaplan.com/t5/image/serverpage/image-id/34248iC86ED2B95EB945A8/image-size/large/is-moderation-mode/true?v=v2&px=999" />
 
 <br/>
 <br/>
