@@ -61,4 +61,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [telegram]: https://t.me/Mastermind_K
 [CodeWars]: https://www.codewars.com/users/Mastermind_K
 [English]: https://www.efset.org/cert/oDAoqP
-
