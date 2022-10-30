@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on automation of data collection
+<!--
 - 🌱 I’m currently learning django and flask frameworks
+-->
 - my hobby: :computer: :headphones: :video_game: :car: :soccer:
 
 ---
