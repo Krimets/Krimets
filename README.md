@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ####  
 
 <img align="left" alt="Ubuntu" title="Ubuntu" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-<img align="left" alt="Linux" title="Ubuntu" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="32px" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"/>
 <img align="left" alt="MacOs" title="MacOs" width="32px" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"/>
 <img align="left" alt="Terminal" title="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
